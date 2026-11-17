@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./assets/jedis-cover.jpg" alt="Desenvolvimento & Talentos — Tecnologia que acelera. Talentos que entregam." width="100%" />
+
+<br /><br />
+
+<img src="./assets/jedis-logo.jpg" alt="jdsdev" width="120" />
+
 
 # Jedis Recrutamento e Tecnologia
 
