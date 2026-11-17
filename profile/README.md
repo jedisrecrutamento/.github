@@ -83,13 +83,13 @@ A **Jedis** é uma empresa brasileira de recrutamento e tecnologia, fundada por 
 
 ## 👥 Time
 
-| Nome | E-mail |
-|---|---|
-| João Paulo Aramuni | [joao.aramuni@jedis.com.br](mailto:joao.aramuni@jedis.com.br) |
-| Guilherme Silveira | [guilherme.silveira@jedis.com.br](mailto:guilherme.silveira@jedis.com.br) |
-| Miguel Diniz | [miguel.diniz@jedis.com.br](mailto:miguel.diniz@jedis.com.br) |
-| Jonathan Felipe | [jonathan.felipe@jedis.com.br](mailto:jonathan.felipe@jedis.com.br) |
-| Gladson Silva | [gladson.silva@jedis.com.br](mailto:gladson.silva@jedis.com.br) |
+| Nome | E-mail | GitHub |
+|---|---|---|
+| João Paulo Aramuni | [joao.aramuni@jedis.com.br](mailto:joao.aramuni@jedis.com.br) | [@joaopauloaramuni](https://github.com/joaopauloaramuni) |
+| Guilherme Silveira | [guilherme.silveira@jedis.com.br](mailto:guilherme.silveira@jedis.com.br) | [@guilhermsilveira](https://github.com/guilhermsilveira) |
+| Miguel Diniz | [miguel.diniz@jedis.com.br](mailto:miguel.diniz@jedis.com.br) | [@DevMiguelDiniz](https://github.com/DevMiguelDiniz) |
+| Jonathan Felipe | [jonathan.felipe@jedis.com.br](mailto:jonathan.felipe@jedis.com.br) | [@jhownf](https://github.com/jhownf) |
+| Gladson Silva | [gladson.silva@jedis.com.br](mailto:gladson.silva@jedis.com.br) | [@Gladson-Silva](https://github.com/Gladson-Silva) |
 
 ## 💼 Trabalhe com a gente
 
