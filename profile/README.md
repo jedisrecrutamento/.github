@@ -83,13 +83,13 @@ A **Jedis** é uma empresa brasileira de recrutamento e tecnologia, fundada por 
 
 ## 👥 Time
 
-| Nome |
-|---|
-| João Paulo Aramuni |
-| Guilherme Silveira |
-| Miguel Diniz |
-| Jonathan Felipe |
-| Gladson Silva |
+| Nome | E-mail |
+|---|---|
+| João Paulo Aramuni | [joao.aramuni@jedis.com.br](mailto:joao.aramuni@jedis.com.br) |
+| Guilherme Silveira | [guilherme.silveira@jedis.com.br](mailto:guilherme.silveira@jedis.com.br) |
+| Miguel Diniz | [miguel.diniz@jedis.com.br](mailto:miguel.diniz@jedis.com.br) |
+| Jonathan Felipe | [jonathan.felipe@jedis.com.br](mailto:jonathan.felipe@jedis.com.br) |
+| Gladson Silva | [gladson.silva@jedis.com.br](mailto:gladson.silva@jedis.com.br) |
 
 ## 💼 Trabalhe com a gente
 
